@@ -1,4 +1,4 @@
-baseURL = 'https://keithatherton.github.io/blog/'
+baseURL = 'https://www.keithatherton.com/'
 languageCode = 'en-us'
 title = 'Keith Atherton'
 theme = 'beautifulhugo'

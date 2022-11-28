@@ -13,7 +13,7 @@ Next, you want to change the text format from "Peter Gibbons" to, say, "Gibbons,
 
 However, you're not (yet) a Power Fx guru. What can you do???
 
-Well, a feature which I've found useful is **Power Apps Ideas** which allows you to transform examples to Power Fx formulas. This is how it works:
+Well, a feature which I've found useful is **Power Apps Ideas** which allows you to transform examples to Power Fx formulas by using the power of AI models. This is how it works:
 
 1. In your gallery, select a text control:
 

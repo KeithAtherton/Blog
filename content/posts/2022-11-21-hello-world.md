@@ -2,7 +2,7 @@
 title: "Hello, World!"
 subtitle: Welcome to my blog
 date: 2022-11-21
-tags: ["intro"]
+tags: ["Intro"]
 ---
 
 Hey! Welcome to my first blog post :)

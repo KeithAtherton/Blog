@@ -1,13 +1,13 @@
 ---
-title: "Asking ChatGPT about the Micosoft Power Platform"
-subtitle: What can ChatGPT tell us about the Micosoft Power Platform
+title: "Asking ChatGPT about the Microsoft Power Platform"
+subtitle: What can ChatGPT tell us about the Microsoft Power Platform
 date: 2023-02-10
 tags: ["PowerPlatform", "ChatGPT", "ChatBot", "ArtificialIntelligence", "MachineLearning"]
 ---
 
 ![ChatGPT logo.](/img/2023-02-10-asking-chatgpt-about-power-platform/chatgpt.jpg "ChatGPT logo.")
 
-I wondered what ChatGPT thinks about the Micosoft Power Platform... so I asked it! The results were very interesting - here they are:
+I wondered what ChatGPT thinks about the Microsoft Power Platform... so I asked it! The results were very interesting - here they are:
 
 **Me**: What is the Microsoft Power Platform?
 

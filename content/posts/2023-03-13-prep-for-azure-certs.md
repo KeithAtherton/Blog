@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for Microsoft Azure Certifications"
 subtitle: Azure Spring Clean 2023 Special Blog Post
-date: 2023-03-11
+date: 2023-03-13
 tags: ["MicrosoftCertification", "Certification", "Study", "AzureSpringClean"]
 ---
 

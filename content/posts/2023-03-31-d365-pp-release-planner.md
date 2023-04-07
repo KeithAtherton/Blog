@@ -1,6 +1,6 @@
 ---
 title: "Dynamics 365 and Microsoft Power Platform Release Planner"
-subtitle: Plan for Microsoft Power Platform releases.
+subtitle: Plan for Microsoft Power Platform releases
 date: 2023-03-31
 tags: ["Dynamics365", "PowerPlatform", "ReleasePlanning"]
 ---

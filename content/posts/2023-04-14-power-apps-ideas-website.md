@@ -5,7 +5,7 @@ date: 2023-04-14
 tags: ["PowerApps"]
 ---
 
-|![Power Apps Ideas website.](/img/2023-04-14-power-apps-ideas-website/2023-04-14-power-apps-ideas.png "Power Apps Ideas website.")|
+|![Power Apps Ideas website.](/img/2023-04-14-power-apps-ideas-website/power-apps-ideas.png "Power Apps Ideas website.")|
 |-|
 
 If you have an idea for Power Apps - for example, a new feature - then you can post it to Power Apps Ideas website:

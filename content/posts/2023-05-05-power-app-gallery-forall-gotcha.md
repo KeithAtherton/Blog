@@ -39,8 +39,8 @@ Clear(colTest1);
 ForAll(galItems.AllItems,
     Collect(colTest1,
         {
-            ID: lblID.Text,
-            Name: lblName.Text
+            ID: txtID.Text,
+            Name: txtName.Text
         }
     );
 );
@@ -59,8 +59,8 @@ Clear(colTest2);
 ForAll(galItems.AllItems As locItem,
     Collect(colTest2,
         {
-            ID: lblID.Text,
-            Name: lblName.Text
+            ID: txtID.Text,
+            Name: txtName.Text
         }
     );
 );
@@ -83,8 +83,8 @@ ForAll(galItems.AllItems,
         },
         Collect(colTest3,
             {
-                ID: lblID.Text,
-                Name: lblName.Text
+                ID: txtID.Text,
+                Name: txtName.Text
             }
         );
     );
@@ -96,6 +96,12 @@ ForAll(galItems.AllItems,
 
 Yup, that's now working as expected!
 
-While this walkthrough of the issue and solution has been basic to keep it easy to follow along with, this issue was experienced in a real world app and manifested itself further downstream, and had to be traced back to the gallery control / ForAll code.
+## Notes
 
-Hope this helps if you experience something similar.
+This issue was experienced in a real-world app and manifested itself further downstream, and was traced back to the gallery control / ForAll code similar to this example.
+
+However, please note that this walkthrough of the issue and solution has been intentionally stripped-back to remove any "noise" and keep it easy to follow along with.
+
+The real-world app had a requirement to access all gallery control items as well as text input control values, and involved extra code.
+
+Hope this helps if you experience something similar!

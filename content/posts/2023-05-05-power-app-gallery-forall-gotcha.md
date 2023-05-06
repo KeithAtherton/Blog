@@ -98,10 +98,10 @@ Yup, that's now working as expected!
 
 ## Notes
 
-This issue was experienced in a real-world app and manifested itself further downstream, and was traced back to the gallery control / ForAll code similar to this example.
+This issue was experienced in a real-world app and manifested itself further downstream, which was traced back to the gallery control / ForAll code similar to this example.
 
 However, please note that this walkthrough of the issue and solution has been intentionally stripped-back to remove any "noise" and keep it easy to follow along with.
 
-The real-world app had a requirement to access all gallery control items as well as text input control values, and involved extra code.
+The real-world app had a very niche requirement to access all gallery control items as well as text input control values, and involved extra code.
 
 Hope this helps if you experience something similar!

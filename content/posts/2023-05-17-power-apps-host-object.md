@@ -77,6 +77,6 @@ Office365Users.MyProfile().Department: {Office365Users.MyProfile().Department}"
 |![Power Apps Office 365 Users connection output.](/img/2023-05-17-power-apps-host-object/power-apps-office-365-users-connection-output.png "Power Apps Office 365 Users connection output.")|
 |-|
 
-## More inforomation
+## More information
 
 More info on the Power Apps *Host" object here: https://learn.microsoft.com/en-us/power-platform/power-fx/reference/object-host

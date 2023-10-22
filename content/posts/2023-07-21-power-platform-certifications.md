@@ -7,7 +7,7 @@ tags: ["Certifications","PowerPlatform"]
 
 Want to learn about Microsoft Power Platform Certifications but don't know where to start? Here are some tips!
 
-Note: All information and screenshots are correct at time of writing but may be different in future as Microsoft certifications are subject to change (and often do!).
+Note: All information and screenshots are correct at time of writing but may be different in future as Microsoft certifications are subject to change (and often do!)
 
 ## Which Power Platform-related certifications are available?
 

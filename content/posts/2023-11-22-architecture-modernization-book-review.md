@@ -40,6 +40,6 @@ I would highly recommend this book if you're looking to improve your architectur
 
 ## Check it out yourself
 
-Order the book here and use code **ather23** for 35% off: http://mng.bz/n1rV
+Order the book here and use code **ather23** for 40% off (code expires 20th March 2024): http://mng.bz/n1rV
 
 Thank you to [Manning](https://www.manning.com/) for providing a review copy of this book.

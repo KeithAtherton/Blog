@@ -1,6 +1,6 @@
 ---
 title: "Power App Performance Measuring"
-date: 2024-02-26
+date: 2024-02-28
 tags: ["PowerApps","PowerFx","Performance"]
 ---
 

@@ -11,7 +11,7 @@ tags: ["BookReview","Architecture"]
 
 This is my review of the book *Architecture Modernization: Socio-technical alignment of software, strategy, and structure* by Nick Tune with Jean-Georges Perrin.
 
-The official book desciption is as follows:
+The official book description is as follows:
 
 > Concrete tools, techniques, and processes to align software architecture with your business domains, organizational design, team topologies, and corporate strategy.
 
